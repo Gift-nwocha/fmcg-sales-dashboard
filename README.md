@@ -36,7 +36,7 @@ This dashboard provides an insightful breakdown of FMCG (Fast Moving Consumer Go
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/Gift-nwocha/fmcg-sales-dashboard/blob/main/Dasboard%20Screenshoot.png)
+![Dashboard Screenshot](Dashboard%20Screenshot%20.png)
 
 ---
 
