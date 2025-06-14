@@ -12,18 +12,24 @@ This dashboard provides an insightful breakdown of FMCG (Fast Moving Consumer Go
 ---
 
 ## Key Business Questions Answered
-- Which regions and product categories are driving revenue?
-- How are monthly sales and gross profits trending?
-- Where are we overspending on distribution?
-- What is the YoY sales growth?
+- Which countries and regions generated the **highest profits** between 2017 and 2019?
+- What are the **monthly profit trends** across the 3-year period, and which months underperform?
+- How do **Francophone vs. Anglophone markets** compare in total profitability?
+- What are the **top-performing brands** in key countries like Nigeria, Ghana, and Senegal?
+- Which brand had the **highest consumption levels** in Nigeria, especially in strategic regions like South-South?
+- Which **products or SKUs** performed best in Francophone countries during 2018–2019?
+- What quarter and year showed the **highest overall profit**, and what might that indicate?
+- How can consumption data (e.g., Budweiser in Senegal) inform **regional marketing or promo decisions**?
 
 ---
 
 ## Key Insights
--  **Region Z** consistently underperformed in both revenue and margin.
--  **Product Line A** showed the highest YoY growth at 18%.
--  Monthly sales saw a seasonal dip in Q3, aligned with distribution lags.
--  Gross profit margins varied sharply between similar SKUs.
+- **Nigeria** was the top profit-generating country in **Q4 of 2019**, indicating strong seasonal performance during this period.
+- **Francophone countries** (e.g., Senegal, Togo, Benin) collectively contributed a lower profit compared to Anglophone regions like Nigeria and Ghana highlighting possible gaps in marketing or distribution strategy.
+- **Brand A** was the highest-profit brand in **Senegal**, while **Budweiser** dominated beer sales in **Nigeria** with peak consumption in the **South-South region**.
+- **December** had the **lowest overall profit** across three years, possibly due to operational lags or off-season market behavior.
+- The **Top 3 brands in Francophone markets (2018–2019)** were highly consumed, showing steady product loyalty outside Anglophone regions.
+- The **highest overall profit** was recorded in **2019**, signaling positive growth trends and market expansion opportunities.
 
 ---
 
