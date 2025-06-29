@@ -49,6 +49,7 @@ This dashboard provides an insightful breakdown of FMCG (Fast Moving Consumer Go
 ## File Access
 - **PBIX File:** `Fcmg%20Analysis%20Insight.pbix`
 - **SQL Query** `SQL_Queriesfmcg_full_analysis.sql`
+- **CSV File** `International_Breweries.csv`
 ---
 
 ## About Me
